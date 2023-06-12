@@ -18,7 +18,7 @@ The given automatic parking system which is safe, speedy, user-friendly and cost
 * LCD Displya.
 
 ## Working
-When a vehicle arrives in front of UV sensor it sends a signal to servo motor which rotates 90 degrees up and allows the car to enter inside. Once the capacity of the system is full no more vehicle is allowed inside.The exit and entry system work simultaneously with the help of a counter which increments or decrements as a vehicle enters or leaves the parking slot. The IR sensors help to identify filled and empty spaces.   
+When a vehicle arrives in front of IR sensor it sends a signal to servo motor which rotates 90 degrees up and allows the car to enter inside. Once the capacity of the system is full no more vehicle is allowed inside.The exit and entry system work simultaneously with the help of a counter which increments or decrements as a vehicle enters or leaves the parking slot. The IR sensors help to identify filled and empty spaces.   
 
 
 
